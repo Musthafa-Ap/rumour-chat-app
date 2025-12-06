@@ -26,6 +26,9 @@ lib/
     └── loading_overlay.dart 
 
 
+
+
+
 //Firebase Cloud Firestore Structure
 
 rooms/
@@ -48,4 +51,14 @@ rooms/
 │           ├── text: string
 │           └── timestamp: timestamp (server time)
 
-//# rumour-chat-app
+
+
+
+
+
+//rumour-chat-app workflow video link - https://drive.google.com/file/d/1Zg4VXlEgHAx7xu5KjZ0RImODxUuCge62/view?usp=sharing
+
+
+
+
+//apk link - https://drive.google.com/file/d/1hLYX-u_E8xuwC4O7M-WvKe0DwRp6eFMX/view?usp=sharing
